@@ -10,3 +10,5 @@
 - HTML/CSS
 - JAVSCRIPT
 - MEDIA FILES 
+
+*Note Site will be uploaded once finished

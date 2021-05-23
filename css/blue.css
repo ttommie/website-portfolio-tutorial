@@ -1,0 +1,16 @@
+/* Blue Theme Root Colors */
+:root{
+    --mainColor: #15202b;
+    --secondaryColor: #192734;
+
+    --borderColor: #164d56;
+    --themeDotBorder: #ffffff;
+
+    --mainText: #ffffff;
+    --secondaryText: #eeeeee; 
+    
+    --previewBg: rgb(25, 39, 52, 0.8);
+    --previewShadow: #111921;
+
+    --buttonColor: #17a2b8;
+}

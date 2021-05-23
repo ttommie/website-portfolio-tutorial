@@ -1,5 +1,7 @@
 # Tommies - Portfolio
 
+[<img align="center" alt="website-preview" width="40px" src="https://cdn.discordapp.com/attachments/765280429511016519/846085389390970980/unknown.png" />]
+
 ### Includes 
 - [x] Greeting Section
 - [ ] About Section

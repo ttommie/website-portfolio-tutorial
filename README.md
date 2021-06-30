@@ -14,4 +14,4 @@ Contact Section
 - JAVSCRIPT
 - MEDIA FILES 
 
-*Note Site will be uploaded once finished*
+*Note Site will not be my portfolio site*

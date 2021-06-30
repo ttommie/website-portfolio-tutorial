@@ -5,7 +5,8 @@
 ```Greeting Section
 About Section
 Project Section
-Contact Section```
+Contact Section
+```
 
 ### Types of Files 
 - HTML/CSS
